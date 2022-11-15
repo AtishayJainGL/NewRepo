@@ -1,8 +1,6 @@
-
-<<<<<<< HEAD
 Hello This is a new file for learning hjadgjasndms c
 Edited by Jayant for manish sbckja,sD
-=======
+
 Hello This is a new file for learning dssfdsdgdsgdgsdgdgsdgsdsdg
 Edited by Jayant for manish 
 >>>>>>> a577648c0101e7e5ffc8281c94c6c2bd8fda8b2f
